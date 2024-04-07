@@ -94,3 +94,6 @@ Un ejemplo es; ACLs pueden trabajar en conjunto con NAT para permitir o denegar 
 de conexiones antes o después del proceso de traducción de direcciones. Por ejemplo, puedes
 configurar un ACL para permitir el tráfico SSH solo desde ciertas direcciones IP después de que
 se haya realizado la traducción de direcciones utilizando NAT.
+
+
+![ConmutacionProyecto](https://github.com/MonrealF/Cisco-Packet-Tracer/assets/84329954/b19a711e-71e2-4f85-b8db-ba486fe755eb)
